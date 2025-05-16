@@ -14,7 +14,6 @@
     --cor-link_home_sombra: rgba(0, 0, 0, 0.63);
     
     
-
    --sombra-home-pag: rgba(0, 0, 0, 0.5);
 
     --fonte-titulo: "Kron One", sans-serif;         
@@ -52,7 +51,6 @@ html, body {
 main {
     flex: 1;
 }
-
 
 
 .tela-bloqueio {
