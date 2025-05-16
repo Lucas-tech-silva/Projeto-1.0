@@ -8,7 +8,7 @@ function derrubarSite() {
 
 document.addEventListener('contextmenu', function (e) {
   e.preventDefault();
-  alert("Clique direito desativado.");
+  alert("Right click disabled.🔒​");
 });
 
 
