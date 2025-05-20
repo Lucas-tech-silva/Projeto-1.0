@@ -1,37 +1,22 @@
-<!-- Título com animação -->
+<!-- Título animado com SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=36BCF7&vCenter=true&width=600&lines=Bem-vindo+ao+Projeto+Animado!;Tudo+100%25+Animado!;Feito+com+💙+e+CSS%2FGIF%2FSVG" alt="Título animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=👋+Olá%2C+seja+bem-vindo!;🚀+Este+é+meu+projeto+animado!;💡+Feito+com+💙+para+você!" alt="Título animado" />
 </h1>
 
----
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="500" alt="Banner animado">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" alt="Animação principal" />
 </p>
 
 ---
 
-## 🔧 Instalação
+## 🌟 Sobre o Projeto
 
-<!-- Animação CSS simples -->
-<div align="center">
-  <style>
-    .animated-box {
-      width: 100px;
-      height: 100px;
-      background-color: #36bcf7;
-      animation: pulse 1.5s infinite;
-      border-radius: 10px;
-    }
+✨ Um repositório com **README.md totalmente animado**, ideal para impressionar quem visita seu perfil ou projeto.  
+📦 Pode ser usado com qualquer tipo de app: Node.js, React, Python, etc.
 
-    @keyframes pulse {
-      0% { transform: scale(1); opacity: 1; }
-      50% { transform: scale(1.1); opacity: 0.6; }
-      100% { transform: scale(1); opacity: 1; }
-    }
-  </style>
-  <div class="animated-box"></div>
-</div>
+---
+
+## 🚀 Instalação
 
 ```bash
 git clone https://github.com/seunome/projeto-animado.git
