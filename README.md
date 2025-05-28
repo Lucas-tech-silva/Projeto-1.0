@@ -1,7 +1,5 @@
 # 🚀 Meu Portfólio Pessoal
-
 🌐 **Veja o site em funcionamento:**  
-
 👉 [Acesse aqui](https://projeto-1-0-rust.vercel.app/) <!-- substitua com seu link real -->
 
 ---
