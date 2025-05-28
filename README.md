@@ -2,7 +2,7 @@
 
 🌐 **Veja o site em funcionamento:**  
 
-👉 [Acesse aqui](https://port-folio-1-0-git-main-lucas-silvas-projects-a08db18e.vercel.app/) <!-- substitua com seu link real -->
+👉 [Acesse aqui](https://projeto-1-0-rust.vercel.app/) <!-- substitua com seu link real -->
 
 ---
 
