@@ -26,22 +26,6 @@ Tudo foi feito sem o uso de frameworks ou bibliotecas externas, com o objetivo d
 
 ---
 
-## 💡 Funcionalidades
-
-- Design responsivo para diferentes tamanhos de tela  
-- Página inicial com animações suaves  
-- Seções como: Sobre mim, Projetos e Contato  
-- Organização clara dos conteúdos e navegação fluida  
-- Possibilidade de expansão futura com novos projetos ou funcionalidades  
-
----
-
-## ⚠️ Conteúdo Privado
-
-Lembrando que o conteúdo do site está privado para proteger a integridade do projeto e garantir os direitos sobre o conteúdo.
-Mas fique tranquilo, para fins empresariais e profissionais, tudo está correto e autorizado.
-
----
 ### 🌐 Onde me encontrar
 
 <p align="center">
